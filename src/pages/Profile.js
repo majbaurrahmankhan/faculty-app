@@ -40,6 +40,7 @@ const Profile = () => {
               }}
             />
             <h3>{person.name}</h3>
+            <h5>{(person.designation)}</h5>
             <p>📞 {person.phone}</p>
             <p>✉️ {person.email}</p>
           </div>

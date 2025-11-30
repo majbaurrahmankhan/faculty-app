@@ -1,26 +1,128 @@
 [
   {
-    "name": "Dr. Md. Majbaur Rahman Khan",
-    "phone": "+880-1234-567890",
-    "email": "majbaur@cu.ac.bd",
+    "name": "মোঃ এনামুল হক",
+    "designation": "সহকারী রেজিস্ট্রার (পি.আর.এল)",
+    "phone": "01929410355",
+    "email": "unknown@cu.ac.bd",
     "image": "staff1.jpg"
   },
   {
-    "name": "Engr. Ayesha Siddika",
-    "phone": "+880-9876-543210",
-    "email": "ayesha@cu.ac.bd",
-    "image": "staff2.jpg"
-  },
-  {
-    "name": "Prof. Dr. Rahim Uddin",
-    "phone": "+880-1122-334455",
-    "email": "rahim@cu.ac.bd",
+    "name": "মোঃ খায়রুন্নবী",
+    "designation": "সহকারী রেজিস্ট্রার",
+    "phone": "",
+    "email": "unknown@cu.ac.bd",
     "image": "staff1.jpg"
   },
   {
-    "name": "Dr. Shirin Akter",
-    "phone": "+880-2233-445566",
-    "email": "shirin@cu.ac.bd",
-    "image": "staff2.jpg"
+    "name": "সৈয়দ মঈন উদ্দিন আহমদ",
+    "designation": "সহকারী রেজিস্ট্রার",
+    "phone": "01818049035",
+    "email": "unknown@cu.ac.bd",
+    "image": "staff1.jpg"
+  },
+  {
+    "name": "লিটন চন্দ্র নাথ",
+    "designation": "সহকারী রেজিস্ট্রার",
+    "phone": "01716431180",
+    "email": "unknown@cu.ac.bd",
+    "image": "staff1.jpg"
+  },
+  {
+    "name": "আনন্দ চন্দ্র নাথ",
+    "designation": "সহকারী প্রকৌশলী (সিভিল)",
+    "phone": "01983430424",
+    "email": "unknown@cu.ac.bd",
+    "image": "staff1.jpg"
+  },
+  {
+    "name": "মঈনুল হক",
+    "designation": "সহকারী প্রকৌশলী (সিভিল)",
+    "phone": "01815601713",
+    "email": "unknown@cu.ac.bd",
+    "image": "staff1.jpg"
+  },
+  {
+    "name": "মোঃ ছাইফুল ইসলাম",
+    "designation": "সেকশন অফিসার",
+    "phone": "01720434887",
+    "email": "unknown@cu.ac.bd",
+    "image": "staff1.jpg"
+  },
+  {
+    "name": "মোঃ ওমর ফারুক",
+    "designation": "সেকশন অফিসার (কম্পিউটার) (পি.আর.এল)",
+    "phone": "01817715030",
+    "email": "unknown@cu.ac.bd",
+    "image": "staff1.jpg"
+  },
+  {
+    "name": "মোঃ রাশেদ করিম",
+    "designation": "সেকশন অফিসার",
+    "phone": "01819615474",
+    "email": "unknown@cu.ac.bd",
+    "image": "staff1.jpg"
+  },
+  {
+    "name": "মোহাম্মদ নুরুল আনোয়ার",
+    "designation": "সেকশন অফিসার",
+    "phone": "01819805436",
+    "email": "unknown@cu.ac.bd",
+    "image": "staff1.jpg"
+  },
+  {
+    "name": "মোঃ ফরিদ আহম্মদ",
+    "designation": "সিনিয়র মিটার রিডার, গ্রেড-১",
+    "phone": "0181825307",
+    "email": "unknown@cu.ac.bd",
+    "image": "staff1.jpg"
+  },
+  {
+    "name": "এ.জে.এম. আবদুল মান্নান",
+    "designation": "সেকশন অফিসার",
+    "phone": "0176600029",
+    "email": "unknown@cu.ac.bd",
+    "image": "staff1.jpg"
+  },
+  {
+    "name": "মোঃ শরীফুল ইসলাম",
+    "designation": "সেকশন অফিসার",
+    "phone": "01712897834, 01612897834",
+    "email": "unknown@cu.ac.bd",
+    "image": "staff1.jpg"
+  },
+  {
+    "name": "মোহাম্মদ লোকমান",
+    "designation": "सেকশন অফিসার",
+    "phone": "80.492650, 28656846450, 6776",
+    "email": "unknown@cu.ac.bd",
+    "image": "staff1.jpg"
+  },
+  {
+    "name": "মো: সাইফুল আলম",
+    "designation": "সেকশন অফিসার",
+    "phone": "01829493540",
+    "email": "unknown@cu.ac.bd",
+    "image": "staff1.jpg"
+  },
+  {
+    "name": "মো: সাঈদ হোসেন",
+    "designation": "সেকশন অফিসার",
+    "phone": "01737206120",
+    "email": "unknown@cu.ac.bd",
+    "image": "staff1.jpg"
+  },
+  {
+    "name": "",
+    "designation": "উপ-সহকারী প্রকৌশলী (সিভিল)",
+    "phone": "01921584289 / 49 / 4211",
+    "email": "unknown@cu.ac.bd",
+    "image": "staff1.jpg"
+  },
+  {
+    "name": "বেলাল মাহমুদ",
+    "designation": "উপ-সহকারী প্রকৌশলী (সিভিল)",
+    "phone": "01882848284 / 8645",
+    "email": "unknown@cu.ac.bd",
+    "image": "staff1.jpg"
   }
 ]
